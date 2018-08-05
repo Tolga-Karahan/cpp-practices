@@ -1,0 +1,27 @@
+{
+  "db1": {
+    "dbname":"dvdrental",
+    "user":"postgres",
+    "password":"postgres",
+    "hostaddr":"0.0.0.0",
+    "port":"5432",
+    "tables":{
+	"table1":"actor",
+	"table2":"category",
+	"table3":"language",
+	"table4":"country"
+     }
+  }, 
+
+  "db2": {
+    "dbname":"test",
+    "user":"postgres",
+    "password":"postgres",
+    "hostaddr":"0.0.0.0",
+    "port":"5432",
+    "tables":{
+	"table1":"test",
+	"table2":"test2"
+     }
+  }  	
+}
